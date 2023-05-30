@@ -1,0 +1,42 @@
+body {
+    background-color: #98e6e6;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 81%;
+    top: 230px;
+}
+
+h1 {
+    position: relative;
+    top: 70px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+}
+
+#info {
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+
+input {
+    width: 500px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-family: "times new roman";
+}
+
+button {
+    position: relative;
+    left: 745px;
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+}
